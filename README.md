@@ -8,3 +8,4 @@ A portfolio website showcasing my retouching work. The image gallery is loaded o
 
 HTML, CSS, JavaScript, Bootstrap, flipGallery.
 
+![Navigation from page load to the Published gallery.](https://github.com/amyjono/retouch-portfolio/blob/master/screenshots/published-gallery.gif)
